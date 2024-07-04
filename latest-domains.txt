@@ -1,0 +1,67 @@
+### This file contains domains to be blocked by pi-hole (https://pi-hole.net/).
+###
+### Add it to your pi-hole adlists via "Adlists" > "Add new adlist" in the
+### pi-hole web interface, and use the following address/URL:
+### https://raw.githubusercontent.com/miguno/pihole-adlists/main/latest-domains.txt
+###
+### Fetch the latest version of this file:
+### https://raw.githubusercontent.com/miguno/pihole-adlists/main/latest-domains.txt
+###
+### Project homepage:
+### https://github.com/miguno/pihole-adlists
+
+# Apple
+iadsdk.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
+
+# Bugsnag
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+
+# Huawei
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
+
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+# TikTok
+ads-api.tiktok.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+
+# Yahoo
+ads.yahoo.com
+analytics.yahoo.com
+geo.yahoo.com
+udc.yahoo.com
+udcm.yahoo.com
+analytics.query.yahoo.com
+partnerads.ysm.yahoo.com
+log.fc.yahoo.com
+gemini.yahoo.com
+adtech.yahooinc.com
+
+# Yandex
+extmaps-api.yandex.net
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+offerwall.yandex.net
+adfox.yandex.ru
